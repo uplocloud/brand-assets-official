@@ -30,7 +30,7 @@ Some examples of acceptable naming are: UploStats, Uplosync, UploWiki, and Uplom
 
 Just remember, if you’re trying to make a play on words, we pronounce Uplo like “up-low” and not “U-P-L-O”.
 
-You can also create a wonderfully custom name that represents you or your work. Some examples are projects like Pixeldrain, Filebase, and roadie.
+You can also create a wonderfully custom name that represents you or your work. Some examples are Adobe, Google, and Apple.
 
 ## Logo and Wordmark
 
